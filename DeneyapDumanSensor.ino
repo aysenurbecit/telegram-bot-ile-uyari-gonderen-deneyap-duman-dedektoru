@@ -10,8 +10,8 @@ const char* password = "wifi sifresi";
 DeneyapTelegram telegram;
 SmokeDetector DumanSensor;                                   // SmokeDetector için class tanımlaması
 
-#define BOTtoken "6662372315:AAEPq6WSOviPb9Xwf5FD0w6nBCeHsmXXkOE" // Telegram uygulaması üzerinden Botfather ile öğreneceğiz
-#define CHAT_ID "6983875910"                          // idbot ile telegram ID'sini öğrenerek buraya yazacağız
+#define BOTtoken "Bot Token" // Telegram uygulaması üzerinden Botfather ile öğreneceğiz
+#define CHAT_ID "Chat ID"                          // idbot ile telegram ID'sini öğrenerek buraya yazacağız
 
 WiFiClientSecure client;
 
