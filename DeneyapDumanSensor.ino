@@ -4,8 +4,8 @@
 #include <WiFi.h>
 #include <Deneyap_DumanDedektoru.h>                          
 
-const char* ssid = "EYUP DENEYAP";
-const char* password = "MTH#122016?!.";
+const char* ssid = "wifi adi";
+const char* password = "wifi sifresi";
 
 DeneyapTelegram telegram;
 SmokeDetector DumanSensor;                                   // SmokeDetector için class tanımlaması
