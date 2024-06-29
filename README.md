@@ -24,3 +24,5 @@ Bu proje, Deneyap platformu ve Arduino ile geliştirilen bir duman dedektörü k
 2. Kodu Arduino'ya yükleyin.
 3. Telegram botunuzu açın.
 4. Duman dedektörü bir duman algılarsa, Telegram botunuza bildirim gönderilecektir.
+
+Deneyap Telegram kütüphanesi ile yapılan örnek için https://deneyapkart.org/projeler/telegram-botla-uyari-gonderen-duman-dedektoru adresine bakabilirsiniz.
